@@ -18,7 +18,6 @@
 *.jar
 *.rar
 *.tar
-*.env
 *.zip
 
 # Logs and databases #
@@ -36,3 +35,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+*.env
